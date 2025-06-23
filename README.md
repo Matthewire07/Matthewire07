@@ -4,17 +4,17 @@
 
 👋 Hi there! I'm Babalola Matthew Iremide, a passionate and driven developer with a focus on creating innovative solutions through technology. With a strong interest in web development, 3D modeling, app development, and software engineering, I aim to combine creativity with functionality in every project I undertake.
 
-🎯 Goals:
+#🎯 Goals:
 
-Mastering cutting-edge technologies like Unity, React, and Python.
+##Mastering cutting-edge technologies like Unity, React, and Python.
 
 Sharing my projects and learning journey to inspire others.
 
 Making impactful contributions to the tech community.
 
-🌟 Key Skills
+#🌟 Key Skills
 
- #💻 Programming:
+ ##💻 Programming:
 
   *🐍 Python
 
@@ -32,7 +32,7 @@ Making impactful contributions to the tech community.
 
   *🖌️ Adobe Animate
 
-#🎨 Design:
+##🎨 Design:
 
   *🖼️ UI/UX Design
 
