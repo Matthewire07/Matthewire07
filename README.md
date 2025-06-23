@@ -12,43 +12,39 @@ Sharing my projects and learning journey to inspire others.
 
 Making impactful contributions to the tech community.
 🌟 Key Skills
-###💻 Programming:
+ #💻 Programming:
 
-###🐍 Python
+  *🐍 Python
 
-###✨ JavaScript
+  *✨ JavaScript
 
-###🖋️ HTML
+  *🖋️ HTML
 
-###🎨 CSS
+  *🎨 CSS
 
-###🔧 Tools & Frameworks:
+ #🔧 Tools & Frameworks:
 
-###🖥️ Blender
+  *🖥️ Blender
 
-###🎮 Unity
+  *🎮 Unity
 
-###🖌️ Adobe Animate
+  *🖌️ Adobe Animate
 
-###⚛️ React
+#🎨 Design:
 
-###🌐 Flask
+  *🖼️ UI/UX Design
 
-###🎨 Design:
+  *🖋️ Canva
 
-###🖼️ UI/UX Design
+  *🎮 Scratch
 
-###🖋️ Canva
+  *🛠️ Other Skills:
 
-###🎮 Scratch
+  *⚙️ JS / React
 
-###🛠️ Other Skills:
+  *💡 UI/UX Design
 
-###⚙️ JS / React
-
-###💡 UI/UX Design
-
-###🎥 3D Modeling & Game Development
+  *🎥 3D Modeling & Game Development
 
 
 - 🔭 I’m currently working on Developing interactive and user-friendly websites.  Experimenting with 3D modeling and animations using Blender.  Building mobile and web applications that solve real-world problems. 
