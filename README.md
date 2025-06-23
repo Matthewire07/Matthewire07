@@ -11,7 +11,9 @@ Mastering cutting-edge technologies like Unity, React, and Python.
 Sharing my projects and learning journey to inspire others.
 
 Making impactful contributions to the tech community.
+
 🌟 Key Skills
+
  #💻 Programming:
 
   *🐍 Python
