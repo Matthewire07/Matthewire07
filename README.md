@@ -11,19 +11,45 @@ Mastering cutting-edge technologies like Unity, React, and Python.
 Sharing my projects and learning journey to inspire others.
 
 Making impactful contributions to the tech community.
+🌟 Key Skills
+###💻 Programming:
 
-🌟 Key Skills:
+###🐍 Python
 
-Programming: Python, JavaScript, HTML, CSS.
+###✨ JavaScript
 
-Tools & Frameworks: Blender, Unity, Adobe Animate, React, Flask.
+###🖋️ HTML
 
-Design: UI/UX Design, Canva, Scratch.
+###🎨 CSS
 
+###🔧 Tools & Frameworks:
 
+###🖥️ Blender
 
+###🎮 Unity
 
-Skills: JS / REACT / JS / HTML / CSS / UI/UX Design / 3D Modeling & Game Development
+###🖌️ Adobe Animate
+
+###⚛️ React
+
+###🌐 Flask
+
+###🎨 Design:
+
+###🖼️ UI/UX Design
+
+###🖋️ Canva
+
+###🎮 Scratch
+
+###🛠️ Other Skills:
+
+###⚙️ JS / React
+
+###💡 UI/UX Design
+
+###🎥 3D Modeling & Game Development
+
 
 - 🔭 I’m currently working on Developing interactive and user-friendly websites.  Experimenting with 3D modeling and animations using Blender.  Building mobile and web applications that solve real-world problems. 
 - 📫 How to reach me: Email: Matthewire20@gmail.com 
